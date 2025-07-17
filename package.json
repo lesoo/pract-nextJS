@@ -1,0 +1,26 @@
+{
+    "name": "my-simple-page",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "start",
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lesoo/pract-nextJS.git"
+    },
+    "author": "leso",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lesoo/pract-nextJS/issues"
+    },
+    "homepage": "https://github.com/lesoo/pract-nextJS#readme",
+    "dependencies": {
+        "next": "^15.4.1",
+        "react": "^19.1.0"
+    }
+}
