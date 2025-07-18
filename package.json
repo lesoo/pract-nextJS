@@ -2,7 +2,6 @@
     "name": "my-simple-page",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
     "scripts": {
         "test": "start",
         "dev": "next dev",
